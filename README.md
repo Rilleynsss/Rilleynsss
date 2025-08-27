@@ -12,7 +12,7 @@ Little bit about me:
 
 \-Age: 24 years
 
-\-Nationality: Ukraine
+\-Nationality: Ukrainian
 
 \-Experience: I created my first project "Hello World!" at 17 years old and this is my starting point.
 
